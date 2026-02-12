@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Chevon - パメラ（Official Audio From「Fall Apart」）",
+  "base_artist": "須田景凪",
+  "createdAt": "2026-02-12T08:40:26.328589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little More (Feat. Chevon Corlew)",
+      "artist": "CeCe Winans Presents...",
+      "has_synced": true,
+      "path": "select/01_A_Little_More_(Feat._Chevon_Corlew)_CeCe_Winans_Presents....lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Circus Funk (feat. Chevon)",
+      "artist": "香取慎吾",
+      "has_synced": true,
+      "path": "select/02_Circus_Funk_(feat._Chevon)_香取慎吾.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パメラ (self cover)",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_パメラ_(self_cover)_須田景凪.txt"
+    }
+  ]
+}
